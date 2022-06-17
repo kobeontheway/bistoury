@@ -80,7 +80,7 @@
         <curator.framework.version>2.6.0</curator.framework.version>
         <netty.all.version>4.0.36.Final</netty.all.version>
         <netty.version>3.10.5.Final</netty.version>
-        <slf4j.version>1.7.5</slf4j.version>
+        <slf4j.version>1.7.36</slf4j.version>
         <tomcat-jdbc.version>7.0.30</tomcat-jdbc.version>
         <tomcat.version>8.5.5</tomcat.version>
         <h2.version>1.4.199</h2.version>
