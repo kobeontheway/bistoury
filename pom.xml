@@ -352,7 +352,7 @@
             <dependency>
                 <groupId>com.taobao.middleware</groupId>
                 <artifactId>logger.core</artifactId>
-                <version>0.2.6</version>
+                <version>0.2.8</version>
                 <scope>compile</scope>
             </dependency>
             <dependency>
