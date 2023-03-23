@@ -64,7 +64,7 @@
 
     <properties>
         <maven_compiler_plugin_version>3.2</maven_compiler_plugin_version>
-        <org.springframework.version>4.3.10.RELEASE</org.springframework.version>
+        <org.springframework.version>5.2.23.RELEASE</org.springframework.version>
         <jackson.version>2.9.2</jackson.version>
         <gitlab.version>1.2.5</gitlab.version>
         <servlet.version>3.1.0</servlet.version>
@@ -82,7 +82,7 @@
         <netty.version>3.10.5.Final</netty.version>
         <slf4j.version>1.7.5</slf4j.version>
         <tomcat-jdbc.version>7.0.30</tomcat-jdbc.version>
-        <tomcat.version>8.5.5</tomcat.version>
+        <tomcat.version>8.5.86</tomcat.version>
         <h2.version>1.4.199</h2.version>
 
         <mysql-connector-java.version>5.1.47</mysql-connector-java.version>
