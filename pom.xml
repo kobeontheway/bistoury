@@ -65,7 +65,7 @@
     <properties>
         <maven_compiler_plugin_version>3.2</maven_compiler_plugin_version>
         <org.springframework.version>4.3.10.RELEASE</org.springframework.version>
-        <jackson.version>2.9.2</jackson.version>
+        <jackson.version>2.9.9.2</jackson.version>
         <gitlab.version>1.2.5</gitlab.version>
         <servlet.version>3.1.0</servlet.version>
         <guava.version>20.0</guava.version>
@@ -78,7 +78,7 @@
         <cfr.version>0.132</cfr.version>
         <zookeeper.version>3.4.6</zookeeper.version>
         <curator.framework.version>2.6.0</curator.framework.version>
-        <netty.all.version>4.0.36.Final</netty.all.version>
+        <netty.all.version>4.1.44.Final</netty.all.version>
         <netty.version>3.10.5.Final</netty.version>
         <slf4j.version>1.7.5</slf4j.version>
         <tomcat-jdbc.version>7.0.30</tomcat-jdbc.version>
